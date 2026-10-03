@@ -1,0 +1,183 @@
+"itrdb_code","study_name","species","latitude","longitude","elevation","firstyear","lastyear"
+"aust112","Strumia - Weinerwald - QUPE - ITRDB AUST112","QUPE",48.12,16.25,450,1794,1995
+"aust114","Gutiérrez - Lainzer Tiergarte - QUPE - ITRDB AUST114","QUPE",48.18,16.2,300,1462,2003
+"blr001","Vitas - Smarhon - QURO - ITRDB BLR001","QURO",54.447,26.517,135,778,1326
+"brit002","Pilcher - Bath - QUPE - ITRDB BRIT002","QUPE",51.37,-2.32,45,1754,1979
+"brit003","Pilcher - Cappoquin - QUPE - ITRDB BRIT003","QUPE",52.13,-7.9,150,1813,1978
+"brit004","Pilcher - Enniscorthy - QUPE - ITRDB BRIT004","QUPE",52.83,-6.53,30,1811,1978
+"brit005","Pilcher - Glenluce - QURO - ITRDB BRIT005","QURO",54.88,-4.83,20,1798,1978
+"brit006","Pilcher - Glen of the Downs - QURO - ITRDB BRIT006","QURO",53.13,-6.08,100,1809,1978
+"brit007","Pilcher - Killarney - QUPE - ITRDB BRIT007","QUPE",52,-9.55,30,1809,1978
+"brit009","Pilcher - Lough Doon - QUPE - ITRDB BRIT009","QUPE",52.83,-8.67,30,1850,1978
+"brit010","Pilcher - Ludlow - QURO - ITRDB BRIT010","QURO",52.35,-2.73,185,1823,1978
+"brit011","Pilcher - Blickling - QURO - ITRDB BRIT011","QURO",52.82,1.22,40,1717,1979
+"brit053","Tyers - Sheffield, Bingham Park Wood and Endcliffe Wood - QURO - ITRDB BRIT053","QURO",53.37,-1.5,140,1759,2003
+"brit071","Gutiérrez - Woburn Abbey - QURO - ITRDB BRIT071","QURO",51.98,-0.59,50,1613,2003
+"brit072","Gutiérrez - Lochwood - QURO - ITRDB BRIT072","QURO",55.27,-3.43,175,1706,2003
+"brit10","Morgan - Towy Valley - QURO - ITRDB BRIT10","QURO",51.42,-4.17,98,1816,1978
+"brit12","Morgan - Padley Wood - QUPE - ITRDB BRIT12","QUPE",53.32,-1.62,984,1873,1976
+"brit2","Hughes - Maentwrog - QUPE - ITRDB BRIT2","QUPE",52.93,-3.92,246,1710,1974
+"brit4","Pilcher - Oakley - QURO - ITRDB BRIT4","QURO",51.8,-1.12,70,1847,1978
+"brit5","Barefoot - King Arthur's Round Table Winchester Castle - QURO - ITRDB BRIT5","QURO",51.05,-1.32,91,1025,1214
+"brit7","Baillie - Raemills - QURO - ITRDB BRIT7","QURO",55.33,-3.5,607,1824,1975
+"che591","PPP_TR 1 Cavergno QUPE","QUPE",46.35,8.6,900,1588,2002
+"che592","VOR_QU 1 Vordemwald QURO","QURO",47.2667,7.8833,480,1814,2011
+"che593","REM_QU 1 REM QUPE","QUPE",47.5167,8.15,595,1894,2008
+"che594","ROG_QU 1 ROG QURO","QURO",47.2167,7.8167,490,1901,2008
+"che595","NES_QU 1 NES QUPE","QUPE",47.6667,8.5167,530,1859,2007
+"che596","MEL_QU 1 MEL QUPE","QUPE",47.0667,9.3833,500,1850,2008
+"che597","MAN_QU 1 MAN QUPE","QUPE",47.5667,8.1833,455,1854,2008
+"che598","BUE_QU 1 BUR QUPE","QUPE",47.4667,7.6833,660,1833,2008
+"che599","DAG_QU 1 DAG QUPE","QUPE",47.2333,7.9833,590,1893,2008
+"che600","BAR_QU 1 BAR QUPE","QUPE",47.4,7.4667,650,1825,2006
+"czec028","Tumajer - U Houkvice - QURO - ITRDB CZEC028","QURO",50.192,16.089,275,1882,2015
+"czec029","Tumajer - Myslivna - QURO - ITRDB CZEC029","QURO",50.393,14.073,225,1831,2015
+"czec030","Tumajer - Roudnice 1 - QURO - ITRDB CZEC030","QURO",50.431,14.278,160,1916,2015
+"czec031","Tumajer - Roudnice 2 - QURO - ITRDB CZEC031","QURO",50.447,14.293,160,1823,2015
+"czec032","Tumajer - Upor - QURO - ITRDB CZEC032","QURO",50.336,14.483,170,1856,2013
+"czec033","Tumajer - Zaluzi - QURO - ITRDB CZEC033","QURO",50.467,14.327,160,1900,2015
+"czec034","Tumajer - Zbytka - QURO - ITRDB CZEC034","QURO",50.295,16.063,255,1777,2013
+"czec035","Tumajer - Zernov - QURO - ITRDB CZEC035","QURO",50.093,15.94,277,1796,2016
+"deu302","Schneider - Berlin Telegrafenberg ddp01 - QUPE - ITRDB DEU302","QUPE",52.383333,13.060278,NA,1793,2016
+"deu303","Schneider - Berlin Teufelssee dek01 - QURO - ITRDB DEU303","QURO",52.419444,13.627222,NA,1879,2016
+"deu304","Schneider - Berlin Teufelssee dek03 - QUPE - ITRDB DEU304","QUPE",52.426667,13.626944,NA,1880,2016
+"deu306","Schneider - Berlin Grunanlage Britz-Sud den03 - QUPE - ITRDB DEU306","QUPE",52.441389,13.442778,NA,1957,2016
+"deu312","Schneider - Berlin Grunanlage Britz-Sud den09 - QURO - ITRDB DEU312","QURO",52.443611,13.440278,NA,1959,2017
+"deu314","Schneider - Berlin Alpenrose den14 - QURO - ITRDB DEU314","QURO",52.426389,13.424444,NA,1940,2017
+"deu315","Schneider - Berlin Volkspark Hasenheide den15 - QURO - ITRDB DEU315","QURO",52.485278,13.418333,NA,1791,2017
+"deu316","Schneider - Berlin Volkspark Hasenheide Northeast den16 - QURO - ITRDB DEU316","QURO",52.485656,13.420556,NA,1780,2018
+"deu340","HDK01 1 Koblenz QUPE","QUPE",50.3167,7.5667,120,1848,2018
+"deu422","quro_se 1 Semberg QURO","QURO",49.95,10.85,360,1885,2023
+"deu424","quro_st 1 Steinbachwald QURO","QURO",49.2333,10.5667,470,1976,2023
+"deu488","KDR01 1 Rotenfels, Bad MÃ¼nster am Stein KDR01 QURO","QURO",49.8167,7.8333,300,1945,2019
+"deu489","KDR02 1 Rotenfels, Bad MÃ¼nster am Stein KDR02 QURO","QURO",49.8167,7.8333,300,1948,2019
+"finl075","Gutiérrez - Bromarv - QURO - ITRDB FINL075","QURO",60,23.08,5,1822,2004
+"fran001","Pilcher - Chambord - QURO - ITRDB FRAN001","QURO",47.57,1.5,100,1732,1979
+"fran002","Pilcher - Foret de Chinon - QUPE - ITRDB FRAN002","QUPE",47.23,0.37,110,1801,1979
+"fran003","Pilcher - Fontainebleau - QURO - ITRDB FRAN003","QURO",48.45,2.68,136,1531,1979
+"fran004","Pilcher - Foret de Guines - QURO - ITRDB FRAN004","QURO",50.83,1.85,140,1828,1979
+"fran005","Pilcher - Foret d'Halatte (Both) - QURO - ITRDB FRAN005","QURO",49.23,2.57,140,1719,1979
+"fran007","Pilcher - Foret d'Halatte (Wet) - QURO - ITRDB FRAN007","QURO",49.23,2.57,140,1719,1979
+"fran048","Bert - Biscarosse B1 Pontenx P8 Landes de Gascogne - QURO - ITRDB FRAN048","QURO",44.5833,-1.1167,40,1994,2012
+"fran049","Gutiérrez - Fontainebleau 2 - QUPE - ITRDB FRAN049","QUPE",48.38,2.67,100,1306,2000
+"fran050","Gutiérrez - Rennes - QURO - ITRDB FRAN050","QURO",48.25,-1.7,100,1751,1998
+"germ001","Schmidt - Odenthal Abt. 13 - QURO - ITRDB GERM001","QURO",51.02,7.13,78,1804,1973
+"germ003","Schmidt - Koln Abt. 48 - QURO - ITRDB GERM003","QURO",50.92,7.15,131,1776,1972
+"germ004","Schmidt - Barkhausen - QURO - ITRDB GERM004","QURO",52.25,8.9,43,1847,1972
+"germ005","Schmidt - Hessisch-Oldendorf - QURO - ITRDB GERM005","QURO",52.18,9.28,291,1843,1971
+"germ006","Schmidt - Hesslingen - QURO - ITRDB GERM006","QURO",52.12,9.2,210,1841,1972
+"germ007","Schmidt - Varenholz - QURO - ITRDB GERM007","QURO",52.17,8.97,95,1787,1972
+"germ008","Schmidt - Schwalenberger Wald - QURO - ITRDB GERM008","QURO",51.92,9.2,290,1830,1972
+"germ009","Schmidt - Schaumburg - QURO - ITRDB GERM009","QURO",52.32,9.03,50,1819,1969
+"germ011","Eckstein - Hamburg - QURO - ITRDB GERM011","QURO",54,10,5,1340,1967
+"germ012","Eckstein - Schleswig - QURO - ITRDB GERM012","QURO",54.5,9.5,30,1800,1969
+"germ1","Becker - Ebrach - QUPE - ITRDB GERM1","QUPE",49.78,10.5,350,1877,1947
+"germ150","Neuwirth - Hessen/Kellerwald dhk03 - QUPE - ITRDB GERM150","QUPE",51.1667,8.9667,290,1837,2005
+"germ154","Neuwirth - Hessen/Kellerwald dhk08 - QUPE - ITRDB GERM154","QUPE",51.15,9.0833,350,1809,2005
+"germ155","Fischer - Hessen/Kellerwald dhk09 - QUPE - ITRDB GERM155","QUPE",51.15,9.0833,365,1855,2005
+"germ156","Neuwirth - Hessen/Kellerwald dhk10 - QUPE - ITRDB GERM156","QUPE",51.15,9.0833,360,1846,2005
+"germ157","Fischer - Hessen/Kellerwald dhk11 - QUPE - ITRDB GERM157","QUPE",51.15,9.0667,400,1849,2005
+"germ158","Neuwirth - Hessen/Kellerwald dhk12 - QUPE - ITRDB GERM158","QUPE",51.15,9.0666,390,1847,2005
+"germ165","Fischer - Nordrhein-Westfalen/Siebengebirge drb06 - QUPE - ITRDB GERM165","QUPE",50.6667,7.2333,370,1847,2004
+"germ166","Fischer - Nordrhein-Westfalen/Siebengebirge drb07 - QUPE - ITRDB GERM166","QUPE",50.6667,7.2333,375,1868,2004
+"germ168","Fischer - Nordrhein-Westfalen/Kottenforst-Ville drb12 - QURO - ITRDB GERM168","QURO",50.6667,7.0333,185,1829,2005
+"germ169","Fischer - Nordrhein-Westfalen/Kottenforst-Ville drb13 - QURO - ITRDB GERM169","QURO",50.6667,7.0333,185,1836,2005
+"germ170","Fischer - Nordrhein-Westfalen/Kottenforst-Ville drb31 - QURO - ITRDB GERM170","QURO",50.6833,7.0333,165,1846,2006
+"germ171","Fischer - Nordrhein-Westfalen/Siebengebirge drb34 - QUPE - ITRDB GERM171","QUPE",50.6833,7.2167,280,1890,2005
+"germ173","Fischer - Nordrhein-Westfalen/Eifel dre01 - QUPE - ITRDB GERM173","QUPE",50.65,6.3167,320,1828,2004
+"germ178","Neuwirth - Nordrhein-Westfalen/Eifel dre06 - QUPE - ITRDB GERM178","QUPE",50.4333,6.55,560,1848,2004
+"germ179","Fischer - Nordrhein-Westfalen/Eifel dre07 - QUPE - ITRDB GERM179","QUPE",50.6667,6.2667,460,1806,2004
+"germ181","Neuwirth - Nordrhein-Westfalen/Eifel dre09 - QUPE - ITRDB GERM181","QUPE",50.6,6.4167,400,1808,2004
+"germ183","Neuwirth - Nordrhein-Westfalen/Eifel dre11 - QUPE - ITRDB GERM183","QUPE",50.5667,6.35,500,1835,2004
+"germ191","Fischer - Nordrhein-Westfalen/Haiger-Siegerland drh03 - QUPE - ITRDB GERM191","QUPE",50.7167,8.1167,450,1723,2005
+"germ194","Fischer - Nordrhein-Westfalen/Haiger-Siegerland drh06 - QUPE - ITRDB GERM194","QUPE",50.85,8.2167,440,1852,2005
+"germ195","Neuwirth - Nordrhein-Westfalen/Jülich drj01 - QURO - ITRDB GERM195","QURO",50.9167,6.4167,105,1822,2005
+"germ196","Neuwirth - Nordrhein-Westfalen/Jülich drj03 - QURO - ITRDB GERM196","QURO",50.9167,6.4167,103,1749,2005
+"germ197","Fischer - Nordrhein-Westfalen/Köln-Bonner Bucht drk01 - QUPE - ITRDB GERM197","QUPE",51.0333,6.8,45,1852,2005
+"germ199","Neuwirth - Nordrhein-Westfalen/Köln-Bonner Bucht drk03 - QURO - ITRDB GERM199","QURO",50.7833,6.8333,155,1848,2005
+"germ200","Fischer - Nordrhein-Westfalen/Oberbergisches drl02 - QURO - ITRDB GERM200","QUPE",50.9667,7.7167,385,1854,2005
+"germ202","Fischer - Nordrhein-Westfalen/Oberbergisches drl04 - QUPE - ITRDB GERM202","QUPE",50.9667,7.7167,260,1777,2005
+"germ203","Fischer - Nordrhein-Westfalen/Münsterland drm04 - QURO - ITRDB GERM203","QURO",51.9,7.8833,60,1867,2007
+"germ204","Fischer - Niederrheinisches Tiefland drn01 - QURO - ITRDB GERM204","QURO",51.3,6.7833,40,1845,2005
+"germ205","Fischer - Niederrheinisches Tiefland drn20 - QUPE - ITRDB GERM205","QUPE",51.75,6.05,50,1772,2009
+"germ207","Fischer - Nordrhein-Westfalen/Arnsberg dro02 - QUPE - ITRDB GERM207","QUPE",51.1,8.0167,470,1749,2005
+"germ218","Scharnweber - Blumberg - QURO - ITRDB GERM218","QURO",53.223,14.13,NA,1850,2009
+"germ220","Scharnweber - Carlshof - QURO - ITRDB GERM220","QURO",53.417,13.033,NA,1872,2009
+"germ222","Scharnweber - Holzkrug - QURO - ITRDB GERM222","QURO",53.485,10.915,NA,1766,2009
+"germ226","Gutiérrez - Dransfeld - QUPE - ITRDB GERM226","QUPE",51.5,9.78,320,1770,2002
+"germ300","Schmidt - Odenthal Abt. 17 - QURO - ITRDB GERM300","QURO",51.02,7.15,705,1806,1972
+"germ6","Eckstein - Oldenburg - QURO - ITRDB GERM6","QURO",53,8,30,1850,1973
+"ita075","Oakmea 1 Trino QURO","QURO",45.2333,8.2667,170,1911,2023
+"ital019","Nola - Corte Brugnatella (Piacenza) - QURO - ITRDB ITAL019","QURO",44.72,9.32,900,1779,1989
+"ital020","Nola - Pavia - QURO - ITRDB ITAL020","QURO",45.18,9.12,77,1875,1989
+"ital021","Nola - Gambolo (Pavia) - QURO - ITRDB ITAL021","QURO",45.27,9.05,77,1888,1989
+"ital052","Hogholt - Morimondo - QURO - ITRDB ITAL052","QURO",45.3459,8.9451,109,1961,2018
+"lith011","Vitas - Viesvile - QURO - ITRDB LITH011","QURO",55.07,22.48,25,1878,2002
+"lith025","Kairaitis - Anyksciai - QURO - ITRDB LITH025","QURO",55.46,25.23,NA,1838,1994
+"lith026","Kairaitis - Babtai - QURO - ITRDB LITH026","QURO",55.105,23.795,50,1803,1971
+"lith027","Kairaitis - Birzai - QURO - ITRDB LITH027","QURO",56.245,24.79,55,1809,1974
+"lith028","Kairaitis - Bukta - QURO - ITRDB LITH028","QURO",54.4,23.45,140,1852,1971
+"lith029","Kairaitis - Dukstos - QURO - ITRDB LITH029","QURO",54.84,24.955,135,1800,1994
+"lith030","Kairaitis - Gelvonai - QURO - ITRDB LITH030","QURO",55.05,24.745,115,1800,1971
+"lith031","Kairaitis - Kaltinenai - QURO - ITRDB LITH031","QURO",55.565,22.395,170,1819,1971
+"lith032","Kairaitis - Kedainiai - QURO - ITRDB LITH032","QURO",55.32,23.99,50,1815,1994
+"lith033","Kairaitis - Vidukle - QURO - ITRDB LITH033","QURO",55.435,22.93,130,1833,1971
+"lith034","Kairaitis - Zalioji - QURO - ITRDB LITH034","QURO",54.6,23.02,60,1840,1971
+"lith035","Kairaitis - Aukstadvaris - QURO - ITRDB LITH035","QURO",54.585,24.55,160,1749,1969
+"lith036","Kairaitis - Kurtuvenai - QURO - ITRDB LITH036","QURO",55.875,22.965,130,1837,1992
+"lith037","Kairaitis - Naujoji Uta - QURO - ITRDB LITH037","QURO",54.535,23.8,100,1821,1997
+"lith038","Kairaitis - Naukaimis - QURO - ITRDB LITH038","QURO",55.09,22.95,32,1841,1971
+"lith039","Kairaitis - Pagegiai - QURO - ITRDB LITH039","QURO",55.19,21.89,17,1827,1971
+"lith040","Kairaitis - Plateliai - QURO - ITRDB LITH040","QURO",56.08,21.835,160,1851,1972
+"lith041","Kairaitis - Spirakiai - QURO - ITRDB LITH041","QURO",55.8015,24.1715,60,1823,1994
+"lith042","Kairaitis - Stakliskes - QURO - ITRDB LITH042","QURO",54.565,24.265,85,1731,1972
+"lith043","Kairaitis - Subartonys - QURO - ITRDB LITH043","QURO",54.195,24.185,112,1862,1996
+"lith044","Kairaitis - Troskunai - QURO - ITRDB LITH044","QURO",55.565,24.8195,87,1834,1994
+"lith045","Kairaitis - Vezaiciai - QURO - ITRDB LITH045","QURO",55.697,21.4815,60,1812,1971
+"neth022","Maessen - Bijvanck Sub-dominant Trees - QURO - ITRDB NETH022","QURO",51.92,6.17,15,1888,1991
+"neth023","Maessen - Bijvanck All Trees - QURO - ITRDB NETH023","QURO",51.92,6.17,15,1889,1991
+"neth024","Maessen - Bijvanck Dominant Trees - QURO - ITRDB NETH024","QURO",51.92,6.17,15,1889,1991
+"neth030","Maessen - Mattemburgh Sub-dominant Trees - QURO - ITRDB NETH030","QURO",51.45,4.32,5,1841,1991
+"pola005","Wazny - Gdansk Recent - QURO - ITRDB POLA005","QURO",54.3,18.55,20,1762,1986
+"pola006","Wazny - East Pomerania - QURO - ITRDB POLA006","QURO",53.5,16,20,996,1986
+"pola007","Wazny - Goldap - QURO - ITRDB POLA007","QURO",54.35,22.38,160,1871,1987
+"pola008","Wazny - Hajnowka - QURO - ITRDB POLA008","QURO",52.7,23.65,160,1720,1985
+"pola009","Wazny - Kosobudy/Roztocze - QURO - ITRDB POLA009","QURO",50.65,23.05,290,1782,1989
+"pola010","Wazny - Koszalin - QURO - ITRDB POLA010","QURO",54.1,16.15,50,1782,1987
+"pola011","Wazny - Debina/Krakow - QURO - ITRDB POLA011","QURO",50.05,20.37,210,1792,1986
+"pola012","Wazny - Poznan - QURO - ITRDB POLA012","QURO",52.27,16.8,70,1836,1987
+"pola013","Wazny - Suwalki - QURO - ITRDB POLA013","QURO",54.08,23.02,140,1861,1987
+"pola014","Wazny - Torun - QURO - ITRDB POLA014","QURO",53.08,18.55,70,1713,1987
+"pola015","Wazny - Warszawa Bielany - QURO - ITRDB POLA015","QURO",52.3,20.98,80,1690,1985
+"pola016","Wazny - Wolin - QURO - ITRDB POLA016","QURO",53.95,14.5,50,1554,1987
+"pola017","Wazny - Wroclaw - QURO - ITRDB POLA017","QURO",51.25,17.17,180,1727,1987
+"pola018","Wazny - Zielona Gora - QURO - ITRDB POLA018","QURO",51.87,15.57,70,1774,1987
+"pola039","Gutiérrez - Niepolomice, Gibiel - QURO - ITRDB POLA039","QURO",50.12,20.38,190,1663,2003
+"rus328","Khasanov - Dyakovskiy Forest - DL - QURO - ITRDB RUS328","QURO",50.7299,46.6695,60,1908,2008
+"rus341","Khasanov - Leontievo - KS - QURO - ITRDB RUS341","QURO",58.1505,44.4952,100,1923,2012
+"rus353","Khasanov - Dzerzhinskiy - QURO - ITRDB RUS353","QURO",54.7323,36.0002,170,1806,2014
+"rus368","Solomina - Faschovka - T12D - QURO - ITRDB RUS368","QURO",52.46,39.69,136,1816,2014
+"rus377","Khasanov - Krapivna - TZ - QURO - ITRDB RUS377","QURO",53.9781,37.1162,180,1770,2014
+"rus378","Solomina - Belogoriye Preserve Les Na Vorskle - V01D - QURO - ITRDB RUS378","QURO",50.604055,35.981444,165,1732,2014
+"rus382","Solomina - Selivanovo Krapivnenskiy Dendrariy - W01D - QURO - ITRDB RUS382","QURO",53.98837,37.25537,175,1809,2014
+"rus387","Khasanov - Zapadnaya Dvina - ZD1 - QURO - ITRDB RUS387","QURO",56.41,32.22,NA,572,1382
+"rus388","Khasanov - Zapadnaya Dvina - ZD2 - QURO - ITRDB RUS388","QURO",56.41,32.22,NA,1346,1762
+"russ282","Khasanov - Kozelsk - QURO - ITRDB RUSS282","QURO",53.91,35.825,160,1823,2015
+"slov004","Jevsenak - Mlace - QURO - ITRDB SLOV004","QURO",46.307071,15.509417,130,1848,2012
+"swit216","Bräker - Saueinschlag - QURO - ITRDB SWIT216","QURO",47.1333,7.3833,480,1886,1995
+"swit230","Treydte - Cavergno - QUPE - ITRDB SWIT230","QUPE",46.35,8.6,900,1562,2002
+"swit232","Bräker - unt.Bremgartenstrasse - QUPE - ITRDB SWIT232","QUPE",47.3925,8.3986,420,1941,1995
+"swit233","Bräker - unt.Bremgartenstrasse - QURO - ITRDB SWIT233","QURO",47.3925,8.3986,420,1927,1995
+"swit243","Bräker - Frischenez - QURO - ITRDB SWIT243","QURO",46.9497,7.1628,445,1905,1991
+"swit250","Bräker - Haslenau - QUPE - ITRDB SWIT250","QUPE",47.5828,9.2742,507,1931,1991
+"swit251","Bräker - Haslenau - QURO - ITRDB SWIT251","QURO",47.5828,9.2742,507,1932,1991
+"swit264","Bräker - Jussy JU - QURO - ITRDB SWIT264","QURO",46.2358,6.2669,480,1916,1998
+"swit270","Bigler - Ruschein GR La Caglia - QUPE - ITRDB SWIT270","QUPE",46.7833,9.1833,1000,1876,2009
+"swit271","Bigler - Tamins GR Eichwald - QUPE - ITRDB SWIT271","QUPE",46.8333,9.4333,620,1810,2009
+"swit317","Bräker - Boulex - QUPE - ITRDB SWIT317","QUPE",46.7844,6.9247,475,1923,1991
+"swit318","Bräker - Boulex - QURO - ITRDB SWIT318","QURO",46.7844,6.9247,475,1938,1991
+"swit335","Fonti - Sihlwald - QUPE - ITRDB SWIT335","QUPE",47.2694,8.5608,580,1855,2006
+"swit346","Fonti - Cugnasco - QUPE - ITRDB SWIT346","QUPE",46.185,8.8817,560,1956,2006
+"swit359","Cherubini - Vordemwald - QUPE - ITRDB SWIT359","QUPE",47.2753,7.8878,476,1810,1996
+"swit364","Fonti - Urdorf - QUPE - ITRDB SWIT364","QUPE",46.3217,7.5619,880,1952,2006
+"turk028","Petrucci - Buyukduz Forest - QUPE - ITRDB TURK028","QUPE",41.2,32.62,900,1699,2004
